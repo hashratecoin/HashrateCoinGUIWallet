@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=hashratecoin Wallet
+Comment=hashratecoin wallet
+Exec=hashratecoin %U
+Terminal=false
+Type=Application
+Icon=hashratecoin
+MimeType=x-scheme-handler/hashratecoin;
+Categories=Office;Finance;
